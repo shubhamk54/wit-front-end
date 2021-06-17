@@ -1,0 +1,44 @@
+.setDivWidthHeight {
+    padding: 50px 50px 50px 50px;
+}
+
+.row {
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-top: 10px;
+    background: whitesmoke;
+    box-shadow: 0 0 8px #006644;
+    border-radius: 6px;
+}
+
+img {
+    width: 60%;
+    float: right;
+    margin-right: 13px;
+}
+
+
+
+.titleStyle {
+    font-size: 36px;
+    font-weight: 500;
+    text-shadow: .1em .1em .2em rgba(39, 38, 38, 0.6);
+}
+
+@media only screen and (min-width: 500px) and (max-width: 991px) {
+    img {
+        margin: 0px 130px 40px auto;
+    }
+}
+
+@media only screen and (min-width: 550px) and (max-width: 700px) {
+    img {
+        margin: 0px 80px 40px auto;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    img {
+        margin: 0px 60px 40px auto;
+    }
+}
