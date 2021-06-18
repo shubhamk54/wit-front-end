@@ -57,6 +57,18 @@ In this section you add the instructions to run your project on your local machi
 - [sample-angular-app](./sample-angular-app/)
 - [Explore other projects](https://github.com/upkarlidder/ibmhacks)
 
+
+![cloud_foundary](images/cloud_foundary.png)
+
+![docker_image](images/docker_image.png)
+
+![dashboard](images/dashboard.png)
+
+![frontend](images/frontend.png)
+
+![backend](images/backend.png)
+
+
 ## Live demo
 
 You can find a running system to test at [Live](https://front-end.eu-gb.cf.appdomain.cloud/welcome).
