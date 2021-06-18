@@ -3,7 +3,7 @@ import { Component } from '@angular/core';
 @Component({
   selector: 'pm-root',
   template: `
-  <div class='container1'>
+  <div class='container1' style='background-color:black;height:80px;'>
     <nav class='navbar navbar-expand navbar-light  shift' text->
     <a class='navbar-brand'></a>
         <ul class='nav'>

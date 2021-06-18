@@ -15,7 +15,8 @@ div.card {
 }
 
 a {
-  text-decoration: none; 
+  text-decoration: none;
+  color:darkred;
 }
 a:hover {
   text-decoration: underline;

@@ -19,7 +19,7 @@ thead {
 .pageHeader{
   align-items: center;
   text-align: center;
-  background-color: rgba(0, 0, 0, 0.4);
+  background-color: lightseagreen;
   height: 150px;
   background-image: url("/uploads/media/default/0001/02/cc6bc584f236c7234947015b89151ab6d04c4cbf.jpeg");
   background-size: cover; 
