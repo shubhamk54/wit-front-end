@@ -6,13 +6,14 @@
 
 [Project website](https://sample-project.s3-web.us-east.cloud-object-storage.appdomain.cloud/)
 
-## Section 1
+## Collection of unnecessary goods via online portal
 
+- Users can donate unnecessary goods using a donation form available on the website. 
+- In that form, they will be putting details of goods and also whether they are want to deliver goods themselves to the receiver. 
 
-### Subsection 1.1
+Advantage :
 
-
-### Subsection 1.2
+Since majority of Indian population (specially elderly population and rural population) do not have knowledge about disposale of goods like medicines and e-waste, This portal will be give them assurance that these uneassary things are either reused, reclycled and redued properly so that it will cause less harm to environment.
 
 
 ## Conclusion
