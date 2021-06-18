@@ -1,52 +1,57 @@
 [
   {
     "productId": 1,
-    "productName": "Leaf Rake",
-    "productCode": "GDN-0011",
-    "releaseDate": "March 19, 2021",
-    "description": "Leaf rake with 48-inch wooden handle.",
-    "price": 19.95,
-    "starRating": 3.2,
-    "imageUrl": "assets/images/leaf_rake.png"
+    "productName": "Saaz DS",
+	  "manufacturerName":"Sun Pharma",
+	  "quantity":10,
+    "expiryDate": "December 19, 2021",
+    "description": "Used for sacroillitis",
+    "category": "Reuse",
+    "type": "medicine",
+    "imageUrl": "assets/images/saaz_ds.jpg"
   },
   {
     "productId": 2,
-    "productName": "Garden Cart",
-    "productCode": "GDN-0023",
-    "releaseDate": "March 18, 2021",
-    "description": "15 gallon capacity rolling garden cart",
-    "price": 32.99,
-    "starRating": 4.2,
-    "imageUrl": "assets/images/garden_cart.png"
+    "productName": "Etody 90mg",
+	  "manufacturerName":"Abbott",
+	  "quantity":3,
+    "expiryDate": "March 05, 2022",
+    "description": "Pain relief",
+    "category": "Reuse",
+    "type": "medicine",
+    "imageUrl": "assets/images/etody.jpg"
+  },
+  {
+    "productId": 3,
+    "productName": "Calten D-500",
+	  "manufacturerName":"Ipca Laboratories Ltd",
+	  "quantity":12,
+    "expiryDate": "August 26, 2021",
+    "description": "Enriching Calcium carbonate and Vitamin D3",
+    "category": "Reuse",
+    "type": "medicine",
+    "imageUrl": "assets/images/caltend_500.jpg"
+  },
+  {
+    "productId": 4,
+    "productName": "Saaz DS",
+	  "manufacturerName":"Sun Pharma",
+	  "quantity":5,
+    "expiryDate": "March 19, 2019",
+    "description": "Used for sacroillitis",
+    "category": "Recycle",
+    "type": "medicine",
+    "imageUrl": "assets/images/saaz_ds.jpg"
   },
   {
     "productId": 5,
-    "productName": "Hammer",
-    "productCode": "TBX-0048",
-    "releaseDate": "May 21, 2021",
-    "description": "Curved claw steel hammer",
-    "price": 8.9,
-    "starRating": 4.8,
-    "imageUrl": "assets/images/hammer.png"
-  },
-  {
-    "productId": 8,
-    "productName": "Saw",
-    "productCode": "TBX-0022",
-    "releaseDate": "May 15, 2021",
-    "description": "15-inch steel blade hand saw",
-    "price": 11.55,
-    "starRating": 3.7,
-    "imageUrl": "assets/images/saw.png"
-  },
-  {
-    "productId": 10,
-    "productName": "Video Game Controller",
-    "productCode": "GMG-0042",
-    "releaseDate": "October 15, 2020",
-    "description": "Standard two-button video game controller",
-    "price": 35.95,
-    "starRating": 4.6,
-    "imageUrl": "assets/images/xbox-controller.png"
+    "productName": "W95 Reusable Outdoor Protection Respirator Black Large Mask",
+	  "manufacturerName":"Wildcraft HypaShield",
+	  "quantity":5,
+    "expiryDate": "",
+    "description": "Offers protection against dangerous microbes including bacteria and viruses",
+    "category": "Use",
+    "type": "medical-device",
+    "imageUrl": "assets/images/mask.png"
   }
 ]

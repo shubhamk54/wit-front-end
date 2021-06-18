@@ -28,10 +28,10 @@
               </button>
             </th>
             <th>Product</th>
-            <th>Code</th>
-            <th>Available</th>
-            <th>Price</th>
-            <th>5 Star Rating</th>
+            <th>Quantity</th>
+            <th>Expiry Date</th>
+            <th>Manufacturer</th>
+            <th>Category</th>
           </tr>
         </thead>
         <tbody>
@@ -48,14 +48,17 @@
                 {{ product.productName }}
               </a>
             </td>
-            <td>{{ product.productCode | lowercase | convertToSpaces:'-' }}</td>
-            <td>{{ product.releaseDate }}</td>
-            <td>{{ product.price | currency:'USD':'symbol':'1.2-2'}}</td>
-            <td>
-              <pm-star [rating]='product.starRating'
+            <td>{{ product.quantity }}</td>
+            <td>{{ product.expiryDate }}</td>
+            <!-- <td>{{ product.price | currency:'USD':'symbol':'1.2-2'}}</td> -->
+            <td>{{ product.manufacturerName }}
+              <!-- <pm-star [rating]='product.starRating'
                        (ratingClicked)='onRatingClicked($event)'>
-              </pm-star>
+              </pm-star> -->
             </td>
+            <td>{{ product.category }}</td>
+
+
           </tr>
         </tbody>
       </table>
