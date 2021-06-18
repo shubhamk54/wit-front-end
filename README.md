@@ -107,7 +107,7 @@ checkout our another repo of Java APIs code: https://github.com/shubhamk54/wit-b
 
 ## Live demo
 
-You can find a running system to test at [Live](https://front-end.eu-gb.cf.appdomain.cloud/welcome).
+You can find a running system to test at [Live](https://front-end.eu-gb.cf.appdomain.cloud).
 
 ## Built with
 
