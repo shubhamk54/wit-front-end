@@ -1,27 +1,35 @@
-# Apm
+## Distributed Reduce Reuse Recycle and Management System
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.4.
 
-## Development server
+## The architecture
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+1. The user navigates to the site and uploads details and files.
 
-## Code scaffolding
+## Getting started
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+In this section you add the instructions to run your project on your local machine for development and testing purposes. You can also add instructions on how to deploy the project in production.
 
-## Build
+- [sample-react-app](./sample-react-app/)
+- [sample-angular-app](./sample-angular-app/)
+- [Explore other projects](https://github.com/upkarlidder/ibmhacks)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Live demo
 
-## Running unit tests
+You can find a running system to test at [Live](https://front-end.eu-gb.cf.appdomain.cloud/welcome).
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Built with
 
-## Running end-to-end tests
+- [IBM DB2](https://www.ibm.com/in-en/cloud/db2-on-cloud)- The relational SQL cloud database.
+- [IBM Cloud Foundry](https://www.ibm.com/in-en/cloud/cloud-foundry) - PaaS environment, providing elastic consumption and serverless deployments
+- [IBM Cloud Container Registry](https://www.ibm.com/in-en/cloud/container-registry) - To store docker images
+- [IBM Cloud Cloud CLI](https://www.ibm.com/in-en/cloud/cli) - To interact with our applications, containers, infrastructures, and other services.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice.
+- [Maven](https://maven.apache.org/) - Dependency management
+- [Angular 12](https://angular.io/docs/) - Developed user interfaces
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Authors
+- [Snehal Ingle](https://github.com/inglesneh)
+- [Purva Puranik](https://github.com/purvapuranik)
+- [Apoorva Ambesange](https://github.com/ApoorvaAmbesange)
+- [Gunjan Paliwal](https://github.com/gunjan7paliwal)
+- [Shubham Kale](https://github.com/shubhamk54)
