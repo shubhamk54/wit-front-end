@@ -41,6 +41,8 @@ With the technological advancement and widespread internet facilities around the
 
 ## Long description
 
+[More detail is available here](./docs/DESCRIPTION.md)
+
 ## Project roadmap
 
 ## Getting started
