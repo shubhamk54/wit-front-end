@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'pm-root',
   template: `
   <div class='container1'>
-    <nav class='navbar navbar-expand navbar-light bg-light shift' text->
+    <nav class='navbar navbar-expand navbar-light  shift' text->
     <a class='navbar-brand'></a>
         <ul class='nav'>
           <li><a class='nav-link' routerLinkActive='active' routerLink='/welcome'>Home</a></li>
