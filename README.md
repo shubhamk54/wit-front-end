@@ -37,6 +37,8 @@ We are proposing ‘DR3AMS’- Distributed Reduce Reuse Recycle and Management S
 
 ## Demo video
 
+https://www.youtube.com/watch?v=mSqvg5kvS3Y
+
 ## The architecture
 
 ![DR3AMS_Architecture](images/DR3AMS_Architecture.jpg)
