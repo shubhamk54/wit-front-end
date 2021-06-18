@@ -1,5 +1,22 @@
 ## Distributed Reduce Reuse Recycle and Management System
 
+## Contents
+
+- [Submission or project name](#submission-or-project-name)
+  - [Contents](#contents)
+  - [Short description](#short-description)
+    - [What's the problem?](#whats-the-problem)
+    - [How can technology help?](#how-can-technology-help)
+    - [The idea](#the-idea)
+  - [Demo video](#demo-video)
+  - [The architecture](#the-architecture)
+  - [Long description](#long-description)
+  - [Project roadmap](#project-roadmap)
+  - [Getting started](#getting-started)
+  - [Live demo](#live-demo)
+  - [Built with](#built-with)
+  - [Authors](#authors)
+  - [Acknowledgments](#acknowledgments)
 
 ## Short description
 
@@ -16,11 +33,15 @@ With the technological advancement and widespread internet facilities around the
 
 ### The idea
 
-
+## Demo video
 
 ## The architecture
 
 1. The user navigates to the site and uploads details and files.
+
+## Long description
+
+## Project roadmap
 
 ## Getting started
 
@@ -50,3 +71,5 @@ You can find a running system to test at [Live](https://front-end.eu-gb.cf.appdo
 - [Apoorva Ambesange](https://github.com/ApoorvaAmbesange)
 - [Gunjan Paliwal](https://github.com/gunjan7paliwal)
 - [Shubham Kale](https://github.com/shubhamk54)
+
+## Acknowledgments
