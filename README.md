@@ -124,4 +124,3 @@ You can find a running system to test at [Live](https://front-end.eu-gb.cf.appdo
 - [Gunjan Paliwal](https://github.com/gunjan7paliwal)
 - [Shubham Kale](https://github.com/shubhamk54)
 
-## Acknowledgments
