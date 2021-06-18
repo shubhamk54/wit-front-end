@@ -51,11 +51,43 @@ We are proposing ‘DR3AMS’- Distributed Reduce Reuse Recycle and Management S
 
 ## Getting started
 
-In this section you add the instructions to run your project on your local machine for development and testing purposes. You can also add instructions on how to deploy the project in production.
+#### Development server for Front End
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.4.
 
-- [sample-react-app](./sample-react-app/)
-- [sample-angular-app](./sample-angular-app/)
-- [Explore other projects](https://github.com/upkarlidder/ibmhacks)
+
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+#### Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+
+#### Deploy
+
+Since we are using IBM cloud foundry CLI, below are the commands to deploy the app
+`cf push`
+#### Development server for Backend
+
+#### Run using Spring boot plugin
+`mvn spring-boot:run`
+##### Run using Docker
+`mvn clean install`
+
+`docker build -t wit/service-product-mgr .`
+
+`docker run -d -p 8080:8080 wit/service-product-mgr:latest`
+
+##### Perform below steps to push the image to IBM CR
+
+`mvn clean install`
+
+`docker build -t uk.icr.io/dev-env/wit/service-product-mgr .`
+
+`docker push uk.icr.io/dev-env/wit/service-product-mgr:latest`
+
+
+##### deploy the app to cloud foundary
+`cf push wit-backend-3 -o uk.icr.io/dev-env/wit/service-product-mgr:latest`
 
 
 ![cloud_foundary](images/cloud_foundary.png)
