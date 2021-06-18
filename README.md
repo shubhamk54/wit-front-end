@@ -39,13 +39,15 @@ We are proposing ‘DR3AMS’- Distributed Reduce Reuse Recycle and Management S
 
 ## The architecture
 
-1. The user navigates to the site and uploads details and files.
+![DR3AMS_Architecture](images/DR3AMS_Architecture.jpg)
 
 ## Long description
 
 [More detail is available here](./docs/DESCRIPTION.md)
 
 ## Project roadmap
+
+![DR3AMS_ProjectRoadmap](images/DR3AMS_ProjectRoadmap.PNG)
 
 ## Getting started
 
